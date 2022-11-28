@@ -1,0 +1,9 @@
+E:\DEV\CSharp\AccesAuxFichiers\AccesAuxFichiers\bin\Release\AccesAuxFichiers.exe.config
+E:\DEV\CSharp\AccesAuxFichiers\AccesAuxFichiers\bin\Release\AccesAuxFichiers.exe
+E:\DEV\CSharp\AccesAuxFichiers\AccesAuxFichiers\bin\Release\AccesAuxFichiers.pdb
+E:\DEV\CSharp\AccesAuxFichiers\AccesAuxFichiers\obj\Release\AccesAuxFichiers.csprojResolveAssemblyReference.cache
+E:\DEV\CSharp\AccesAuxFichiers\AccesAuxFichiers\obj\Release\AccesAuxFichiers.frmAccueil.resources
+E:\DEV\CSharp\AccesAuxFichiers\AccesAuxFichiers\obj\Release\AccesAuxFichiers.Properties.Resources.resources
+E:\DEV\CSharp\AccesAuxFichiers\AccesAuxFichiers\obj\Release\AccesAuxFichiers.csproj.GenerateResource.Cache
+E:\DEV\CSharp\AccesAuxFichiers\AccesAuxFichiers\obj\Release\AccesAuxFichiers.exe
+E:\DEV\CSharp\AccesAuxFichiers\AccesAuxFichiers\obj\Release\AccesAuxFichiers.pdb
